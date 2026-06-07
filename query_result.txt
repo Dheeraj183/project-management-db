@@ -1,0 +1,4 @@
+# project_name, project_manager, task_title, status, priority, due_date, assigned_to, progress_percent
+'Website Redesign', 'Alice Johnson', 'Create homepage layout', 'Open', 'High', '2025-05-01', 'Bob Smith', '20'
+'Website Redesign', 'Alice Johnson', 'Build navigation menu', 'In Progress', 'Medium', '2025-05-05', 'Bob Smith', '50'
+'Mobile App Development', 'Alice Johnson', 'Create login API', 'Open', 'High', '2025-05-10', 'Bob Smith', '10'
